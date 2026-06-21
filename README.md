@@ -1,1 +1,1 @@
-This is my Sample HTML page with html only no css or js
+This is my Sample HTML page with html and css
